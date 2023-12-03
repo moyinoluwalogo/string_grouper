@@ -1,1 +1,2 @@
 0032. 🎨 style: apply consistent indentation
+0614. 🚀 perf: reduce image load time
