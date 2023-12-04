@@ -1,3 +1,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0059. ♻️ chore: bump dependencies
 0750. 🎨 style: apply consistent indentation
+0780. 📚 docs: add API usage examples
