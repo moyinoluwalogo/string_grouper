@@ -1,2 +1,3 @@
 0032. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
+0112. ✨ feat: enable dark mode toggle
