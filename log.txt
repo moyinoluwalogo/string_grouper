@@ -17,3 +17,4 @@
 0369. 🎨 style: standardize quote style
 0725. 🚀 perf: lazy-load components
 0869. ♻️ chore: bump dependencies
+0019. ✨ feat: enable dark mode toggle
