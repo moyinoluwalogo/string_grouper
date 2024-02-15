@@ -18,3 +18,4 @@
 0725. 🚀 perf: lazy-load components
 0869. ♻️ chore: bump dependencies
 0019. ✨ feat: enable dark mode toggle
+0095. ✅ test: mock database connection in test suite
