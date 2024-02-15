@@ -15,3 +15,4 @@
 0409. 🚀 perf: lazy-load components
 0055. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
+0945. ♻️ chore: add GitHub actions badge
