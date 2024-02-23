@@ -19,3 +19,4 @@
 0485. 📚 docs: update README with setup steps
 0991. ♻️ chore: clean up unused files
 0108. 🎨 style: remove trailing whitespace
+0279. ✨ feat: support email verification
