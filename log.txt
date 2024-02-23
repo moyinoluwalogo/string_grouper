@@ -18,3 +18,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0485. 📚 docs: update README with setup steps
 0991. ♻️ chore: clean up unused files
+0108. 🎨 style: remove trailing whitespace
