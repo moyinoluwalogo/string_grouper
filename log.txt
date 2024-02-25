@@ -20,3 +20,4 @@
 0019. ✨ feat: enable dark mode toggle
 0095. ✅ test: mock database connection in test suite
 0625. 🐛 fix: handle 500 error in quiz API
+0221. ✨ feat: add user authentication
