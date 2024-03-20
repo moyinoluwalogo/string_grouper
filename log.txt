@@ -28,3 +28,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0839. 🎨 style: apply consistent indentation
 0986. 📚 docs: document token refresh logic
+0611. ✅ test: test user registration edge cases
