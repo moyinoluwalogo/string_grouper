@@ -37,3 +37,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0194. 🎨 style: standardize quote style
 0685. ✅ test: test user registration edge cases
+0571. 🔧 refactor: clean up auth middleware
