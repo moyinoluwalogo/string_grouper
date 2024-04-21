@@ -37,3 +37,4 @@
 0076. 🎨 style: reformat files with black
 0955. 🔧 refactor: remove redundant code blocks
 0957. 🐛 fix: fix null pointer exception on login
+0238. 🎨 style: apply consistent indentation
