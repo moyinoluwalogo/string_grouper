@@ -43,3 +43,4 @@
 0543. ✨ feat: support email verification
 0928. 🎨 style: apply consistent indentation
 0599. ✅ test: test user registration edge cases
+0886. ♻️ chore: clean up unused files
