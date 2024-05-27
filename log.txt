@@ -51,3 +51,4 @@
 0035. ✅ test: increase coverage on auth module
 0494. 🎨 style: rename variables for clarity
 0578. ✅ test: add integration test for /submit endpoint
+0788. 📚 docs: add API usage examples
