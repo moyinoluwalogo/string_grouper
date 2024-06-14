@@ -51,3 +51,4 @@
 0765. ♻️ chore: clean up unused files
 0312. ✨ feat: add user authentication
 0446. 🎨 style: apply consistent indentation
+0513. ♻️ chore: bump dependencies
