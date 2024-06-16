@@ -55,3 +55,4 @@
 0409. 🚀 perf: lazy-load components
 0539. 🔧 refactor: organize models into subfolders
 0351. ✨ feat: add export to CSV option
+0526. ✨ feat: add user authentication
