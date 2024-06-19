@@ -53,3 +53,4 @@
 0446. 🎨 style: apply consistent indentation
 0513. ♻️ chore: bump dependencies
 0323. 📚 docs: clarify environment setup
+0547. 📚 docs: write FAQ section
