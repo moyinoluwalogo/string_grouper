@@ -54,3 +54,4 @@
 0513. ♻️ chore: bump dependencies
 0323. 📚 docs: clarify environment setup
 0547. 📚 docs: write FAQ section
+0618. ✨ feat: support email verification
