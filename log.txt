@@ -57,3 +57,4 @@
 0351. ✨ feat: add export to CSV option
 0526. ✨ feat: add user authentication
 0118. 🚀 perf: reduce image load time
+0386. 🚀 perf: optimize database query for quiz results
