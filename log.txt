@@ -64,3 +64,4 @@
 0797. 📚 docs: add API usage examples
 0720. ✨ feat: add export to CSV option
 0763. 🔧 refactor: organize models into subfolders
+0755. 🚀 perf: cache repeated calculations
