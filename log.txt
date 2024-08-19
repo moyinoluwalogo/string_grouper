@@ -67,3 +67,4 @@
 0100. ♻️ chore: update .gitignore
 0330. ✅ test: test user registration edge cases
 0748. 🚀 perf: optimize database query for quiz results
+0375. 🐛 fix: handle 500 error in quiz API
