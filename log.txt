@@ -85,3 +85,4 @@
 0885. ♻️ chore: update .gitignore
 0453. 🎨 style: standardize quote style
 0197. 📚 docs: update README with setup steps
+0298. ♻️ chore: update .gitignore
