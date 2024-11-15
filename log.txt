@@ -100,3 +100,4 @@
 0654. ✨ feat: create admin dashboard
 0195. 📚 docs: clarify environment setup
 0147. ♻️ chore: bump dependencies
+0453. 🎨 style: standardize quote style
