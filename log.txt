@@ -105,3 +105,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0701. 🔧 refactor: clean up auth middleware
 0923. ✨ feat: support email verification
+0994. 🚀 perf: reduce image load time
