@@ -106,3 +106,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0923. ✨ feat: support email verification
 0994. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
