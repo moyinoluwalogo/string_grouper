@@ -93,3 +93,4 @@
 0622. 🎨 style: apply consistent indentation
 0455. ♻️ chore: clean up unused files
 0025. 🚀 perf: optimize database query for quiz results
+0548. 📚 docs: write FAQ section
