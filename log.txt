@@ -96,3 +96,4 @@
 0548. 📚 docs: write FAQ section
 0875. ✅ test: increase coverage on auth module
 0335. ♻️ chore: update .gitignore
+0887. 📚 docs: add API usage examples
