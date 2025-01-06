@@ -100,3 +100,4 @@
 0321. 🔧 refactor: organize models into subfolders
 1000. ✅ test: increase coverage on auth module
 0062. ♻️ chore: update .gitignore
+0385. ♻️ chore: clean up unused files
