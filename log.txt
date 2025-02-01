@@ -119,3 +119,4 @@
 0545. 🎨 style: standardize quote style
 0961. 📚 docs: add API usage examples
 0492. 🎨 style: remove trailing whitespace
+0762. 🚀 perf: lazy-load components
