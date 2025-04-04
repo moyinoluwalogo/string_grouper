@@ -128,3 +128,4 @@
 0281. ✨ feat: support email verification
 0206. 🐛 fix: handle 500 error in quiz API
 0997. ✅ test: increase coverage on auth module
+0129. 🔧 refactor: organize models into subfolders
