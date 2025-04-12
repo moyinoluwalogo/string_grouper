@@ -130,3 +130,4 @@
 0997. ✅ test: increase coverage on auth module
 0129. 🔧 refactor: organize models into subfolders
 0030. 🐛 fix: fix null pointer exception on login
+0893. 🐛 fix: handle 500 error in quiz API
