@@ -149,3 +149,4 @@
 0387. ✨ feat: enable dark mode toggle
 0186. ✅ test: test user registration edge cases
 0334. 🚀 perf: cache repeated calculations
+0433. 🐛 fix: prevent crash on empty input
