@@ -165,3 +165,4 @@
 0942. ✅ test: increase coverage on auth module
 0471. ✨ feat: support email verification
 0222. 🐛 fix: handle 500 error in quiz API
+0390. 🎨 style: standardize quote style
