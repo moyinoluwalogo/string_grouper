@@ -167,3 +167,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0390. 🎨 style: standardize quote style
 0113. ✨ feat: add user authentication
+0064. 📚 docs: clarify environment setup
